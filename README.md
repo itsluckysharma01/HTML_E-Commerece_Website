@@ -21,10 +21,6 @@
 - [🎨 Design Highlights](#design-highlights)
 - [🛠️ Technologies Used](#technologies-used)
 - [🚀 Installation](#installation)
-- [📁 Project Structure](#project-structure)
-- [🎯 Features Breakdown](#features-breakdown)
-- [📱 Responsive Design](#responsive-design)
-- [🎨 Color Palette](#color-palette)
 - [🔮 Future Enhancements](#future-enhancements)
 - [🤝 Contributing](#contributing)
 - [📄 License](#license)
@@ -54,16 +50,6 @@ Welcome to our **Modern E-Commerce Website** - a sleek, responsive, and user-fri
 - ✅ Beautiful Typography
 
 </td>
-<td width="50%">
-
-### 🚀 **Performance & UX**
-
-- ✅ Lightning Fast Loading
-- ✅ Smooth Scroll Navigation
-- ✅ Mobile-First Responsive
-- ✅ Cross-Browser Compatible
-- ✅ SEO Optimized
-
 </td>
 </tr>
 <tr>
@@ -147,14 +133,6 @@ Welcome to our **Modern E-Commerce Website** - a sleek, responsive, and user-fri
 - Responsive Media Queries
 - CSS Transforms & Keyframes
 
-### ⚡ **JavaScript Features:**
-
-- DOM Manipulation
-- Event Listeners
-- Smooth Scrolling
-- Mobile Menu Toggle
-- Dynamic Content Updates
-
 ---
 
 ## 🚀 Installation
@@ -184,17 +162,6 @@ open index.html  # macOS
 start index.html # Windows
 ```
 
-### 🌐 **Live Development Server**
-
-```bash
-# Using Python (if available)
-python -m http.server 8000
-
-# Using Node.js (if available)
-npx serve .
-
-# Then visit: http://localhost:8000
-```
 
 ---
 
@@ -205,12 +172,6 @@ npx serve .
 ### 🏠 **Homepage Sections**
 
 #### 1. **Navigation Bar**
-
-```css
-/* Glass morphism effect */
-background: rgba(255, 255, 255, 0.95);
-backdrop-filter: blur(20px);
-```
 
 - Fixed position with scroll effects
 - Responsive hamburger menu
