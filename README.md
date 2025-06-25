@@ -8,7 +8,7 @@
 
 ### 🌟 A Beautiful, Responsive E-Commerce Experience
 
-[🚀 Live Demo] Click hare👉(https://itsluckysharma01.github.io/HTML_E-Commerece_Website/) • [📖 Documentation](#features) • [🎯 Features](#key-features) • [🔧 Installation](#installation)
+[🚀 Live Demo](https://itsluckysharma01.github.io/HTML_E-Commerece_Website/) • [📖 Documentation](#features) • [🎯 Features](#key-features) • [🔧 Installation](#installation)
 
 </div>
 
